@@ -141,7 +141,7 @@ chop.suid <-
 
 
 # load the read.SAScii.monetdb function (a variant of read.SAScii that creates a database directly)
-source_url( "https://raw.githubusercontent.com/ajdamico/asdfree/master/MonetDB/read.SAScii.monetdb.R" , prompt = FALSE )
+source_url( "https://raw.githubusercontent.com/floswald/asdfree/master/MonetDB/read.SAScii.monetdb.R" , prompt = FALSE )
 
 # set the locations of the data files on the ftp site
 SIPP.core.sas <-
